@@ -1,3 +1,4 @@
+package Methods;
 
 public class Methods {
 	//program sadece main içinde yazan kodları çalıştırır.
